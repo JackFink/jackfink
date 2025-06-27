@@ -3,6 +3,7 @@
 <!--
 **JackFink/jackfink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm JackFink</h1>
+<p align="center">
+Designer -> Developer</br><b>"Devsigner"</b></p>
+
 <h3 align="center">A passionate frontend developer from ㅇㅁㅈㅇIndia</h3>
 
 <h3 align="left">Connect with me:</h3>
