@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm JackFink</h1>
-<p align="center">
-Designer -> Developer</br><b>"Devsigner"</b></p>
 
-<h3 align="center">A passionate frontend developer from ㅇㅁㅈㅇIndia</h3>
+<p align="center">Designer -> Developer</br><b>"Devsigner"</b></p>
+
+<h3 align="center">I’m a bit more analytical than a designer, and a bit more emotional than a developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
